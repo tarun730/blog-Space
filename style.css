@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+*{
+   font-family: Lora;
+    padding:0;
+margin: 0;
+}
+
+
+p{
+    margin-bottom: 20px;
+    margin-top: 5px;
+    padding-left: 36px;
+}
+.Blogspace{
+    background-color: aquamarine;
+    font-size: 40px;
+}
+form{
+ padding: 10px 20em;   
+ gap: 10px;
+display:grid;
+}
+button{
+   padding: 10px;
+    cursor: pointer;
+}
